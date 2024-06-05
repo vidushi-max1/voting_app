@@ -1,0 +1,4 @@
+gangradevidushi7@gmail.com
+Splendourhome@7
+
+mongodb+srv://vidushi:boombeera@voting.wnxjqhz.mongodb.net/voting_app
